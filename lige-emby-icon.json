@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "无偿求更，图标更新请关注TG频道：@ligeicon ，您当前版本日期为260405",
+  "description": "无偿求更，图标更新请关注TG频道：@ligeicon ，您当前版本日期为260417",
   "icons": [
     {
       "name": "emby",
@@ -283,12 +283,12 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/CineTrail-emby.png"
     },
     {
-      "name": "cloud-emby",
-      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/cloud-emby.png"
-    },
-    {
       "name": "Cloud-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Cloud-emby.png"
+    },
+    {
+      "name": "cloud-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/cloud-emby.png"
     },
     {
       "name": "Cookie-emby",
@@ -521,6 +521,10 @@
     {
       "name": "HDD-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/HDD-emby.png"
+    },
+    {
+      "name": "HDSky(1)-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/HDSky(1)-emby.png"
     },
     {
       "name": "HDSky-emby",
@@ -777,6 +781,10 @@
     {
       "name": "MeFun-VIP-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/MeFun-VIP-emby.png"
+    },
+    {
+      "name": "mengdie-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/mengdie-emby.png"
     },
     {
       "name": "MICU-emby",
@@ -1389,6 +1397,10 @@
     {
       "name": "xinghai-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/xinghai-emby.png"
+    },
+    {
+      "name": "xingyinng-Lanxuan-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/xingyinng-Lanxuan-emby.png"
     },
     {
       "name": "xjdjdjxjfjjfl-emby",
